@@ -11,7 +11,7 @@ affil: DeepMind
 affil_link: https://deepmind.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: kelsey.jpg
+img: kelsey.png
 
 ---
 

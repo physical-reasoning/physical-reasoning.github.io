@@ -11,7 +11,7 @@ affil: Koidra
 affil_link: https://www.koidra.ai/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: kenneth_tran.jpg
+img: kenneth.jpg
 
 ---
 

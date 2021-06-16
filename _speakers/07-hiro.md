@@ -11,7 +11,7 @@ affil: NASA Jet Propulsion Laboratory
 affil_link: https://jpl.nasa.gov
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: hiro_ono.jpg
+img: hiro.jpg
 
 ---
 

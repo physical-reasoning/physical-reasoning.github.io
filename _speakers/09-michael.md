@@ -11,7 +11,7 @@ affil: Cambridge University
 affil_link: https://covid19ai.maths.cam.ac.uk/team
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: michael_roberts.jpg
+img: michael.jpg
 
 ---
 
