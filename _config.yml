@@ -18,13 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Inductive biases for physical reasoning in the real-world
+title: Physical Reasoning and Inductive Biases for the Real World
 # email: rethinkingmlpapers@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   What kinds of inductive biases do we need for real-world physical reasoning
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: rethinkmlpapers
 github_username: physical-reasoning
 
 # Build settings
