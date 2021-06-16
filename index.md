@@ -7,12 +7,12 @@ title: Home
 layout: home
 ---
 
-
 <figure>
 	<div style="text-align:center">
 		<img src="assets/img/banner.jpg" alt="A banner for the workshop" />
 	</div>
 </figure>
+<br />
 
 Much progress has been made on end-to-end learning for physical understanding and reasoning. If successful, understanding and reasoning about the visual and physical world promises far-reaching applications in robotics, machine vision, and the physical sciences. Despite this recent progress, our best artificial systems pale in comparison to the flexibility and generalization of human physical reasoning.
 
@@ -26,8 +26,3 @@ Our workshop aims to investigate this broad question by bringing together expert
 Unlike end-to-end neural architectures that distribute bias across a large set of parameters, modern structured physical reasoning modules (differentiable physics engines, relational inductive biases, energy-conservation mechanisms, probabilistic programming tools) strive to maintain modularity and physical interpretability. In this workshop, we will discuss how these various architectures and inductive biases might help artificial systems learn generalizable and/or interpretable principles, and how these different facets can be combined to produce systems that solve real-world problems. 
 
 
-
-
-### Related past workshops
-
-Work in progress
