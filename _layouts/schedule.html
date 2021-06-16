@@ -1,0 +1,108 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class = "post-content">
+
+	  {{ content }}
+
+	  <table>
+	  	<tr>
+	  		<td>
+	  			<p align="center">
+	  				<b>Time (EDT)</b>
+	  			</p>
+	  		</td>
+			<td>
+				<p align="center">
+					<b>Time (PDT)</b>
+				</p>
+			</td>
+			<td>
+				<p align="center">
+					<b>Time (CEST)</b>
+				</p>
+			</td>
+			<td>
+			</td>
+	  		<td>
+	  			<p align="center">
+	  				<b>Event</b>
+	  			</p>
+	  		</td>
+	  	</tr>
+	  	{% for scheduleitem in site.schedule %}
+		    <tr>
+		        <td>
+		            <p align="center">
+		                {{ scheduleitem.time }}
+		            </p>
+		        </td>
+				<td>
+		            <p align="center">
+		                {{ scheduleitem.time | minus: 300 | prepend: '0000' | slice: -4, 4 }}
+		            </p>
+		        </td>
+				<td>
+		            <p align="center">
+		                {{ scheduleitem.time | plus: 600 }}
+		            </p>
+		        </td>
+		        <td>
+		            <div class="col-xs-12">
+		                <p align="center">
+		                	{% if scheduleitem.img %}
+		                    	<img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% else %}
+		                    	<img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
+		                    {% endif %}
+		                </p>
+		            </div>
+		        </td>
+		        <td align="center">
+		        	<div class="people-name text-center">
+		            	<!-- scheduleitem name (link to webpage if provided) -->
+		            	{% if scheduleitem.webpage %}
+		            		<a href="{{ scheduleitem.webpage }}" target="_blank">{{ scheduleitem.speaker }}</a>
+		            	{% else %}
+		            		{{ scheduleitem.speaker }}
+		            	{% endif %}
+		                
+		                <!-- scheduleitem affiliation (if provided) -->
+		                {% if scheduleitem.affil_link %}
+		                	- <a href="{{ scheduleitem.affil_link }}" target="_blank">{{ scheduleitem.affil }}</a>
+		                {% else %}
+		                	{% if scheduleitem.affil %}
+		                		- {{ scheduleitem.affil }}
+		                	{% endif %}
+		                {% endif %}
+		                <!-- Additional scheduleitem affiliation (if provided) -->
+		                {% if scheduleitem.affil2_link %}
+		                	- <a href=""></a> href="{{ scheduleitem.affil2_link }}" target="_blank">{{ scheduleitem.affil2 }}</a>
+		                {% elsif scheduleitem.affil2 %}
+		                	- {{ scheduleitem.affil2 }}
+		                {% endif %}
+		            </div>
+		        	<div class="col-xs-12">
+			        	<b>{{ scheduleitem.title }}</b>
+		        	</div>
+		        	{% if scheduleitem.abstract %}
+		        		<br>
+		        		<button type="button" class="btn btn-link" data-toggle="collapse" data-target="#{{ scheduleitem.sequence_id }}">See Abstract</button>
+					  	<div id="{{ scheduleitem.sequence_id }}" class="collapse out">
+						    {{ scheduleitem.abstract }}
+					  	</div>
+		        	{% endif %}
+		        </td>
+		    </tr>
+	    {% endfor %}
+	  </table>
+  </div>
+
+</article>
