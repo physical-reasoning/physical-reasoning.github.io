@@ -1,6 +1,6 @@
 ---
 # Name of the speaker
-name:  Michael Roberts: 
+name: Michael Roberts
 
 # Link to the speaker's webpage
 webpage: http://www.damtp.cam.ac.uk/research/cia/person/mr808
