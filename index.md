@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Physical Reasoning and Inductive Biases for the Real World
+title: Home
 layout: home
 ---
 
