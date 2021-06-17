@@ -6,9 +6,9 @@ name: Nils Thuerey
 webpage: https://ge.in.tum.de/about/n-thuerey/
 
 # Primary affiliation of the speaker
-affil: New York University
+affil: Technical University of Munich
 # Link to the speaker's primary affiliation
-affil_link: https://ge.in.tum.de/about/n-thuerey/
+affil_link: https://www.tum.de/en/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: nils.jpg

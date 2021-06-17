@@ -4,6 +4,7 @@
 
 permalink: /
 title: Home
+titletext: Physical Reasoning and Inductive Biases for the Real World
 layout: home
 ---
 

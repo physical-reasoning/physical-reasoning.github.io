@@ -8,7 +8,7 @@ webpage: https://web.mit.edu/krallen/www/
 # Primary affiliation of the speaker
 affil: DeepMind
 # Link to the speaker's primary affiliation
-affil_link: https://deepmind.com/
+affil_link: http://www.deepmind.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: kelsey.png

@@ -8,7 +8,7 @@ webpage: https://www.cs.columbia.edu/~shurans/
 # Primary affiliation of the speaker
 affil: Columbia University
 # Link to the speaker's primary affiliation
-affil_link: columbia.edu
+affil_link: http://www.columbia.edu/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: shuran.jpg
