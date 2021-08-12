@@ -4,7 +4,7 @@ title: Submit
 permalink: /submit/
 ---
 
-**Please read all of these instructions carefully when preparing your submissions. Please reach out to the [organizers](organizers) if in doubt.**
+**Please read all of these instructions carefully when preparing your submissions. Please reach out to the [organizers](/organizers) if in doubt.**
 
 We welcome contributed papers from machine learning, the physical sciences, cognitive and developmental psychology, and robotics that provide new theories, models, or empirical data for studying physical understanding. We especially encourage contributors to submit work that investigates the following questions:
 * What forms of **inductive biases** best enable the development of physical understanding techniques that are applicable to real-world problems?
@@ -31,4 +31,4 @@ Our submission portal can be accessed at: [https://cmt3.research.microsoft.com/P
 
 ### Note on reviewing
 
-By submitting to this workshop, authors agree to provide meaningful peer-reviews for (upto) 3 other non-conflicting submissions to the workshop.
+By submitting to this workshop, authors agree to provide meaningful peer-reviews for (up to) 3 other non-conflicting submissions to the workshop.
