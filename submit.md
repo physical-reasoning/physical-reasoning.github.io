@@ -15,7 +15,7 @@ We welcome contributed papers from machine learning, the physical sciences, cogn
 
 ### Submission instructions
 
-We invite **short papers** of up to **4 pages** (excluding references) in the areas listed above. Submissions will undergo a **double-anonymous** reviewing process and thus need to be appropriately anonymized. Additionally, submissions may upload supplementary materials (appendices, code, videos, etc.). Looking at the supplementary materials is at the sole discretion of the reviewers. Submissions must follow the [**workshop LaTeX template**](https://drive.google.com/file/d/18HtjoyCK4qOL1_SBP6OPy0Gh-Ot7gjpC) (NOT the Neurips 2021 conference template). The workshop is non-archival: papers/abstracts accepted to the workshop will not appear in formal proceedings. However, the papers, talks, and other materials (if any) will be posted on the workshop webpage to maximize visibility. Submissions that are currently under review or that have been recently accepted to a conference other than Neurips 2021 are permitted (but work accepted to NeurIPS 2021 is disallowed, following guidance from the workshop chairs for Neurips 2021 to appear in a Neurips 2021 workshop). The accepted papers will be presented in a virtual poster session and lightning talks. Outstanding original contributions will be chosen for longer oral presentations.
+We invite **short papers** of up to **4 pages** (excluding references) in the areas listed above. Submissions will undergo a **double-anonymous** reviewing process and thus need to be appropriately anonymized. Additionally, submissions may upload supplementary materials (appendices, code, videos, etc.). Looking at the supplementary materials is at the sole discretion of the reviewers. Submissions must follow the [**workshop LaTeX template**](https://drive.google.com/open?id=1Ir4CfKzEBJzg6Fr9UXZ6QqzfL6ljf6KX) (NOT the Neurips 2021 conference template). The workshop is non-archival: papers/abstracts accepted to the workshop will not appear in formal proceedings. However, the papers, talks, and other materials (if any) will be posted on the workshop webpage to maximize visibility. Submissions that are currently under review or that have been recently accepted to a conference other than Neurips 2021 are permitted (but work accepted to NeurIPS 2021 is disallowed, following guidance from the workshop chairs for Neurips 2021 to appear in a Neurips 2021 workshop). The accepted papers will be presented in a virtual poster session and lightning talks. Outstanding original contributions will be chosen for longer oral presentations.
 
 
 ### Submission portal
@@ -27,3 +27,8 @@ Our submission portal can be accessed at: [https://cmt3.research.microsoft.com/P
 
 1. Workshop submission deadline: 4 October 2021. 23:59 hours, [anywhere-on-Earth time](https://www.worldtimeserver.com/time-zones/aoe/) (**firm deadline**)
 2. Acceptance notification: 16 October 2021
+
+
+### Note on reviewing
+
+By submitting to this workshop, authors agree to provide meaningful peer-reviews for (upto) 3 other non-conflicting submissions to the workshop.
