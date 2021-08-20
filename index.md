@@ -8,6 +8,9 @@ titletext: Physical Reasoning and Inductive Biases for the Real World
 layout: home
 ---
 
+> **Workshop date: 14 December 2021** <br>
+**Submissions due: 4 October 2021** (anywhere-on-Earth time)
+
 <figure>
 	<div style="text-align:center">
 		<img src="assets/img/banner.jpg" alt="A banner for the workshop" />
