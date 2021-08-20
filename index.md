@@ -9,7 +9,7 @@ layout: home
 ---
 
 > **Workshop date: 14 December 2021** <br>
-**Submissions due: 4 October 2021** (anywhere-on-Earth time)
+**[Submissions due](submit): 4 October 2021** (anywhere-on-Earth time)
 
 <figure>
 	<div style="text-align:center">
