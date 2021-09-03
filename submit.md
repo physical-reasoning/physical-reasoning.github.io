@@ -25,8 +25,8 @@ Our submission portal can be accessed at: [https://cmt3.research.microsoft.com/P
 
 ### Important dates
 
-1. Workshop submission deadline: 4 October 2021. 23:59 hours, [anywhere-on-Earth time](https://www.worldtimeserver.com/time-zones/aoe/) (**firm deadline**)
-2. Acceptance notification: 16 October 2021
+1. Workshop submission deadline: 11 October 2021. 23:59 hours, [anywhere-on-Earth time](https://www.worldtimeserver.com/time-zones/aoe/) (**firm deadline**)
+2. Acceptance notification: 21 October 2021
 
 
 ### Note on reviewing
