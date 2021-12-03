@@ -16,12 +16,12 @@ layout: default
 			<tr>
 				<td width="35%">
 					<div class="people-name text-left">
-						<b>Paper</b>
+						<b>Title</b>
 					</div>
 				</td>
 				<td width="50%">
 					<div class="people-name text-left">
-						<b>TL;DR</b>
+						<b>Link</b>
 					</div>
 				</td>
 				<td width="15%">
@@ -48,11 +48,6 @@ layout: default
 								<br>
 								{{ paper.affil }}
 							{% endif %}
-							<!-- Link to PDF (if provided) -->
-							{% if paper.pdf %}
-								<br>
-								<a href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>
-							{% endif %}
 						</div>
 					</td>
 					<td width="50%">
@@ -61,6 +56,10 @@ layout: default
 								{{ paper.tldr }}
 							{% endif %}
 							<br>
+							<!-- Link to PDF (if provided) -->
+							{% if paper.pdf %}
+								<a class="btn btn-outline-primary" href="{{ paper.pdf | prepend: '/assets/pdf/papers/' | prepend: site.baseurl | prepend: site.url }}" role="button">PDF</a>
+							{% endif %}
 							{% if paper.abstract %}
 								<button type="button" class="btn btn-outline-primary" data-toggle="collapse" data-target="#{{ paper.sequence_id | append: '_abstract' }}">See Abstract</button>
 								<div id="{{ paper.sequence_id | append: '_abstract' }}" class="collapse out">

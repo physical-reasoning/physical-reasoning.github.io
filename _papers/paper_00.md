@@ -3,23 +3,20 @@
 sequence_id: 0
 
 # Paper title
-title: In defense of the paper
+title: Efficient and Interpretable Robot Manipulation with Graph Neural Networks
 
 # Accepted for oral presentation?
 oral: 1
 
 # Paper authors
-authors: Owen Lockwood
+authors: Yixin Lin, Austin S Wang, Eric Undersander, Akshara Rai
 
-# Link to the openreview page
-openreview: https://openreview.net/forum?id=MUR1oxCnvNs
+# Link to the paper's pdf (place in the `assets/pdf/papers` directory)
+pdf: 00.pdf
 
-# TL;DR
-tldr: The root cause of hindrances in the accessibility of machine learning research lies not in the paper workflow but within the misaligned incentives behind the publishing and research processes.
+# # Link to a representative image for the paper (place in the `assets/img/papers` directory)
+# img: 00.png
 
 # Abstract for the papers
-abstract: The machine learning publication process is broken, of that there can be no doubt. Many of these flaws are attributed to the current workflow; LaTeX to PDF to reviewers to camera ready PDF. This has understandably resulted in the desire for new forms of publications; ones that can increase inclusively, accessibility and pedagogical strength. However, this venture fails to address the origins of these inadequacies in the contemporary paper workflow. The paper, being the basic unit of academic research, is merely how problems in the publication and research ecosystem manifest; but is not itself responsible for them. Not only will simply replacing or augmenting papers with different formats not fix existing problems; when used as a band-aid without systemic changes, will likely exacerbate the existing inequities. In this work, we argue that the root cause of hindrances in the accessibility of machine learning research lies not in the paper workflow but within the misaligned incentives behind the publishing and research processes. We discuss these problems and argue that the paper is the optimal workflow. We also highlight some potential solutions for the incentivization problems.
-
-# Talk video (only the video id; i.e., string following https://youtu.be/)
-youtube: ba1C0N2i4D0
+abstract: Manipulation tasks like loading a dishwasher can be seen as a sequence of spatial constraints and relationships between different objects. We aim to discover these rules from demonstrations by posing manipulation as a classification problem over a graph, whose nodes represent task-relevant entities like objects and goals. In our experiments, a single GNN policy trained using imitation learning (IL) on 20 expert demonstrations can solve blockstacking and rearrangement tasks in both simulation and on hardware, generalizing over the number of objects and goal configurations. These experiments show that graphical IL can solve complex long-horizon manipulation problems without requiring detailed task descriptions.
 ---

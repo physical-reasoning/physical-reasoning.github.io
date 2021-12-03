@@ -36,7 +36,7 @@ plugins:
 header_pages:
 - index.md
 # - schedule.md
-# - papers.md
+- papers.md
 - speakers.md
 - organizers.md
 - submit.md
