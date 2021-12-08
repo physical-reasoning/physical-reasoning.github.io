@@ -1,5 +1,3 @@
-https://mobile.twitter.com/AleksandraFaust/photo
-
 ---
 # Name of the speaker
 name: Aleksandra Faust
