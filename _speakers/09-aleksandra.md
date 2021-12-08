@@ -1,5 +1,3 @@
-https://mobile.twitter.com/AleksandraFaust/photo
-
 ---
 # Name of the speaker
 name: Aleksandra Faust
@@ -19,5 +17,5 @@ img: aleksandra.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Aleksandra Faust is a Senior Staff Research Scientist and Reinforcement Learning research team co-founder at Google Brain Research. Aleksandra's research interests include safe and scalable reinforcement learning, learning to learn, motion planning, decision-making, and robot behavior. Previously, Aleksandra founded and led Task and Motion Planning research in Robotics at Google, machine learning for self-driving car planning and controls in Waymo, and was a senior researcher in Sandia National Laboratories. She earned a Ph.D. in Computer Science at the University of New Mexico (with distinction). Her work has been featured in the New York Times, PC Magazine, ZdNet, VentureBeat, and ​was recognized with Best Paper awards in several leading machine learning and robotics research venues. 
+Aleksandra Faust is a Senior Staff Research Scientist and Reinforcement Learning research team co-founder at Google Brain Research. Her research interests include safe and scalable reinforcement learning, learning to learn, motion planning, decision-making, and robot behavior. Previously, Aleksandra founded and led Task and Motion Planning research in Robotics at Google, machine learning for self-driving car planning and controls in Waymo, and was a senior researcher in Sandia National Laboratories. She earned a Ph.D. in Computer Science at the University of New Mexico (with distinction). Her work has been featured in the New York Times, PC Magazine, ZdNet, VentureBeat, and ​was recognized with Best Paper awards in several leading machine learning and robotics research venues. 
 
