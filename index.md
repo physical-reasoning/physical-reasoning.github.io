@@ -8,7 +8,7 @@ titletext: Physical Reasoning and Inductive Biases for the Real World
 layout: home
 ---
 
-> **Workshop date: 14 December 2021** (1100 EST, 1400 PST, 1600 GMT/UTC) <br>
+> **Workshop date: 14 December 2021** (1100 EST, 0800 PST, 1600 GMT/UTC) <br>
 **Join the workshop** by visiting [https://neurips.cc/virtual/2021/workshop/21842](https://neurips.cc/virtual/2021/workshop/21842)
 
 <figure>

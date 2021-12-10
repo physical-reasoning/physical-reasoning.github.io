@@ -17,4 +17,4 @@ img: tomer.jpg
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-I am an Assistant Professor at Harvard's Department of Psychology. I head the Computation, Cognition, and Development lab, with a focus on intuitive theories and people's common-sense reasoning about physics and psychology. I'm also a member of the Center for Brains, Minds and Machines.
+Tomer Ullman is an Assistant Professor at Harvard's Department of Psychology. He head the Computation, Cognition, and Development lab, with a focus on intuitive theories and people's common-sense reasoning about physics and psychology. He is also a member of the Center for Brains, Minds and Machines.

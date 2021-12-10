@@ -17,4 +17,4 @@ img: kelsey.png
 
 <!-- Whatever you write below will show up as the speaker's bio -->
 
-Kelsey Allen is a Research Scientist at DeepMind. She completed my PhD under the supervision of Josh Tenenbaum in the Computational Cognitive Science group at MIT, and received my B.Sc. from the University of British Columbia in Physics.
+Kelsey Allen is a Research Scientist at DeepMind. She completed her PhD under the supervision of Josh Tenenbaum in the Computational Cognitive Science group at MIT, and received her B.Sc. from the University of British Columbia in Physics.
