@@ -3,10 +3,13 @@
 sequence_id: 0
 
 # Speaker name
-speaker: Organizers
+speaker: Kevin Smith
+webpage: http://www.mit.edu/~k2smith/
 
 # Title of the event
 title: Opening remarks
+
+img: kevin.jpg
 
 # Time of the event
 time: 1100
