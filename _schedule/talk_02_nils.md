@@ -4,6 +4,6 @@ speaker: Nils Thuerey
 affil: TUM
 webpage: https://ge.in.tum.de/about/n-thuerey/
 img: nils.jpg
-title: TBA
+title: Differentiable Physical Simulations and Beyond
 time: 1145
 ---
