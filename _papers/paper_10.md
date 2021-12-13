@@ -6,7 +6,7 @@ sequence_id: 10
 title: DLO@Scale -- A Large-Scale Meta Dataset for Learning Non-Rigid Object Pushing Dynamics
 
 # Paper authors
-authors: Robert Gieselmann, Danica Kragic, Florian T. Pokorny, Alberta Longhini
+authors: Robert Gieselmann, Alberta Longhini, Alfredo Reichlin, Danica Kragic and Florian T. Pokorny
 
 # Link to the paper's pdf (place in the `assets/pdf/papers` directory)
 pdf: 10.pdf
