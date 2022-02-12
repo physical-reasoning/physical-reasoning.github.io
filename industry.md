@@ -12,11 +12,12 @@ permalink: /industry/
         </a>
 	</div>
 </figure>
-<br />
 
-As a result of our industry panel, below we put together a <b>list of
-practical recommendations</b> that academics can pursue to make their 
-research applicable to real-world challenges.
+
+<h2>The List of Practical Recommendations</h2>
+
+The list below summarizes the insights from our industry panel.
+We hope that it can help making academic research applicable to real-world challenges.
 
 ### A. Tackle complex environments
 
