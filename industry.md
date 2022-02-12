@@ -14,7 +14,7 @@ permalink: /industry/
 </figure>
 
 
-<h2>The List of Practical Recommendations</h2>
+<h2>A List of Practical Recommendations</h2>
 
 The list below summarizes the insights from our industry panel.
 We hope that it can help making academic research applicable to real-world challenges.
