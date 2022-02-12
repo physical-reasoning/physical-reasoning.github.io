@@ -7,7 +7,8 @@ speaker: Kevin Smith
 webpage: http://www.mit.edu/~k2smith/
 
 # Title of the event
-title: Opening remarks
+title: Introductory remarks
+talkurl: https://slideslive.com/38974989/introductory-remarks
 
 img: kevin.jpg
 

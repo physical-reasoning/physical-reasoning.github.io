@@ -3,19 +3,20 @@ layout: page
 title: Industry Panel
 permalink: /industry/
 ---
+
 <figure>
-	<div style="text-align:center">
+	<div style="text-align:center;max-width:700px;width=100%;align:center">
+        <a href="https://slideslive.com/38974994/industry-panel"
+           alt="industry panel slide" target="_blank">
 		<img src="../assets/img/industry.jpg" alt="Industry Panel Summary" />
+        </a>
 	</div>
 </figure>
 <br />
 
-Watch the recording of the industry panel <a href="https://neurips.cc/virtual/2021/workshop/21842#wse-detail-48296">here</a>.
-<em>Note: recordings are visible to NeurIPS participants now and will be public at the end of January.</em>
-
-As a result of our industry panel, below we put together a <b>list of practical recommendations</b> that academics can pursue to make their research applicable to real-world challenges.
-
-<hr />
+As a result of our industry panel, below we put together a <b>list of
+practical recommendations</b> that academics can pursue to make their 
+research applicable to real-world challenges.
 
 ### A. Tackle complex environments
 
@@ -88,3 +89,16 @@ harmful: e.g. data with COVID patient outcomes that does not mark whether a
 hospital has overstretched its ICU resources.
 
 <hr />
+
+
+<div class="embed-container">
+  <iframe
+      src="https://slideslive.com/38974994/industry-panel"
+      title="Industry Panel Video"
+      frameborder="0" 
+      style="overflow:hidden;width:100%;height:420;"
+      height="420" width="100%"
+      allowfullscreen="">
+  </iframe>
+</div>
+<br />

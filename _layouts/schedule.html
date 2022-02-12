@@ -90,7 +90,11 @@ layout: default
 		                {% endif %}
 		            </div>
 		        	<div class="col-xs-12">
-			        	<b>{{ scheduleitem.title }}</b>
+		            	{% if scheduleitem.talkurl %}
+		            		<b><a href="{{ scheduleitem.talkurl }}" target="_blank">{{ scheduleitem.title }}</a></b>
+		            	{% else %}
+						<b>{{ scheduleitem.title }}</b>
+		            	{% endif %}
 		        	</div>
 		        	{% if scheduleitem.abstract %}
 		        		<br>
