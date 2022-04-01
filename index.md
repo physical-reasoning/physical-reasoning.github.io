@@ -31,14 +31,12 @@ Unlike end-to-end neural architectures that distribute bias across a large set o
 
 <br />
 
-<div class="embed-container">
-  <iframe
-      src="https://slideslive.com/38974989/introductory-remarks"
-      title="Industry Panel Video"
-      frameborder="0" 
-      style="overflow:hidden;width:100%;height:420;"
-      height="420" width="100%"
-      allowfullscreen="">
-  </iframe>
-</div>
-<br />
+<div id="presentation-embed-38973354"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38973354", {
+    presentationId: "38973354",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
