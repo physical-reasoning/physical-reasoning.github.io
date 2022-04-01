@@ -92,14 +92,12 @@ hospital has overstretched its ICU resources.
 <hr />
 
 
-<div class="embed-container">
-  <iframe
-      src="https://slideslive.com/38974994/industry-panel"
-      title="Industry Panel Video"
-      frameborder="0" 
-      style="overflow:hidden;width:100%;height:420;"
-      height="420" width="100%"
-      allowfullscreen="">
-  </iframe>
-</div>
-<br />
+<div id="presentation-embed-38974994"></div>
+<script src="https://slideslive.com/embed_presentation.js"></script>
+<script>
+  embed = new SlidesLiveEmbed("presentation-embed-38974994", {
+    presentationId: "38974994",
+    autoPlay: false,
+    verticalEnabled: true,
+  });
+</script>
